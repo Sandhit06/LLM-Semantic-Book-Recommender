@@ -8,7 +8,7 @@ This tool is developed for educational and developmental purposes. It's crucial 
 
 ## Project Overview
 
-*Example image showing detected vehicles and their tracking.*
+*Example image*
 
 ![Image](image.jpg)
 
