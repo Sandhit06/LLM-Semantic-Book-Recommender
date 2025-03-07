@@ -12,7 +12,18 @@ This project utilizes Large Language Models (LLMs) and semantic search to recomm
 ##
 ![Image](image1.jpg)
 
-
+## Key Features
+- [x] 📚 **AI-Powered Book Recommendations**– Uses LLM embeddings for highly relevant book suggestions.
+- [x] 🔍 **Semantic Search** – Finds books based on contextual meaning rather than keyword matching.
+- [x] 🎭 **Emotion-Based Filtering** – Allows sorting books by emotional tone (Happy, Suspenseful, Sad, etc.).
+- [x] 📑 **Fiction vs. Non-Fiction Classification** – Helps users filter recommendations by book type.
+- [x] ⚡ **Fast Vector Search with ChromaDB** – Enables real-time book retrieval using efficient embeddings.
+- [x] 🎨 **Interactive Gradio UI** – Provides an easy-to-use interface for querying book recommendations.
+- [x] 📷 **Book Cover Previews** – Displays high-quality book cover images alongside recommendations.
+- [x] 🔗 **Real-Time Query Processing** – Instantly updates results as users modify their search criteria.
+- [x] 💾 **Scalable Vector Storage** – Uses ChromaDB for storing and retrieving book embeddings efficiently.
+- [x] 📖 **Kaggle Dataset Integration** – Supports preloaded datasets for better recommendations.
+- [x] 🚀 **Optimized for accuracy, speed, and personalization!** 🚀
 
 ## How to Use
 
