@@ -9,6 +9,7 @@ This project utilizes Large Language Models (LLMs) and semantic search to recomm
 *Example image*
 
 ![Image](image.jpg)
+##
 ![Image](image1.jpg)
 
 
@@ -20,7 +21,7 @@ This project utilizes Large Language Models (LLMs) and semantic search to recomm
 
 2. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourgithub/semantic-book-recommender.git
+    git clone https://github.com/Sandhit06/LLM-Semantic-Book-Recommender.git
     ```
 
 3. **Run the Detection**:
@@ -76,13 +77,38 @@ Ensure your model file is correctly loaded and the video file path is correct. C
 This tool is developed for educational and developmental purposes. It's crucial to understand the implications and responsibilities of using such technologies in real-world applications.
 
 
-## Tracking issues
-Adjust the tracking parameters if the vehicles are not being consistently followed across frames.
-
-## Performance is slow
-Try reducing the video resolution or using a more powerful GPU. YOLOv8 is resource-intensive.
-
 ## Still need help?
 Open an issue on our GitHub repository, and we will help you as soon as possible.
 
 Enjoy exploring and extending this project! Feel free to contribute and suggest improvements.
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://x.com/SandhitK).
+
+## Developer
+<table>
+    <tr align="center">
+        <td>
+        Sandhit Karmakar
+        <p align="center">
+            <img src = "https://avatars.githubusercontent.com/u/90787826?v=4" width="150" height="150" alt="Dhruv Shah">
+        </p>
+            <p align="center">
+                <a href = "https://github.com/Sandhit06">
+                    <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+                </a>
+                <a href = "https://www.linkedin.com/in/sandhit-karmakar/" target="_blank">
+                    <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+                </a>
+                <a href = "mailto:sandhitkarmakar@gmail.com" target="_blank">
+                    <img src = "https://www.iconninja.com/files/312/807/734/share-send-email-chat-circle-message-mail-icon.svg" width="36" height="36" alt="Email"/>
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+    Made with ❤️ by <a href="https://github.com/Sandhit06">Sandhit Karmakar</a>
+</p>
