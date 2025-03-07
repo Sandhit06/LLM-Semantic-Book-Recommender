@@ -3,14 +3,13 @@ Semantic Book Recommender Using LLMs
 
 This project utilizes Large Language Models (LLMs) and semantic search to recommend books based on user input. It goes beyond traditional recommendation systems by using natural language understanding to find books with similar contextual meaning rather than relying on simple keyword matching.
 
-## ⚠ Disclaimer
-This tool is developed for educational and developmental purposes. It's crucial to understand the implications and responsibilities of using such technologies in real-world applications.
 
 ## Project Overview
 
 *Example image*
 
 ![Image](image.jpg)
+![Image](image1.jpg)
 
 
 
@@ -72,6 +71,10 @@ You can adjust several parameters including:
 ## Troubleshooting
 No detections in the video
 Ensure your model file is correctly loaded and the video file path is correct. Check if the video has clear visibility and minimal occlusions.
+
+## ⚠ Disclaimer
+This tool is developed for educational and developmental purposes. It's crucial to understand the implications and responsibilities of using such technologies in real-world applications.
+
 
 ## Tracking issues
 Adjust the tracking parameters if the vehicles are not being consistently followed across frames.
